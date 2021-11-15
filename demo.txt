@@ -1,0 +1,6 @@
+this is ademo project.
+created only for practice of git ang git bash
+this is the first profile created.
+thankyou for reading.
+                     Created by
+							Ankit Malik
